@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kachwalUttamsharma
 - 👀 I’m interested in Full Stack Roles
-- 🌱 I’m currently learning LLD and HLD
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me kachwaluttam@gmail.com , https://www.linkedin.com/in/kachwaluttamsharma
 
